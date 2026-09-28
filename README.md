@@ -1,4 +1,4 @@
-#Practica de Git
+#Practica de GitPub
 
 Repositorio de la práctica 1 de Git.
 
